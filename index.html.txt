@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> Hier entsteht das Kratgartenkisterl - digital </h1>
+<br></br><br></br>
+<p> bei zwischenzeitlichen fragen ballern Sie einfach mal ne mail raus an felix.czemetschka@gmail.com </p>
+
+</body>
+</html>
